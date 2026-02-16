@@ -1,3 +1,9 @@
+IF THIS FILE IS NOT WORKING JUST DM ME ON MY INSTA OR EMAIL
+
+jayesh.hegde006@gmail.com
+
+jayesh_hegde01
+
 # Quiz Game
 
 A modern quiz application built with **Next.js**, **React**, and **Tailwind CSS**.  
